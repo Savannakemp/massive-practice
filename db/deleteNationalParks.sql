@@ -1,0 +1,1 @@
+delete national_parks

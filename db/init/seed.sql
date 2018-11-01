@@ -1,0 +1,2 @@
+INSERT INTO national_parks (name, image_url, location, date_established, acres, description)
+VALUES ('Arcadia', 'https://slack-imgs.com/?c=1&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F93%2FBass_Harbor_Head_Light_Station_2016.jpg%2F400px-Bass_Harbor_Head_Light_Station_2016.jpg', 'Maine', '02/26/1919', 49075.26, 'cool place');
